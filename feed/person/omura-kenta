@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 大村ケンタの記事</title>
+    <link>https://kotatsu.example.com/feed/person/omura-kenta</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:02 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-omura-mujintou-jihanki</guid>
+      <title>大村ケンタ、制作6ヶ月「無人島に自販機を設置したら売れるのか」がついに公開。想定外の結末に</title>
+      <link>https://kotatsu.example.com/articles/omura-mujintou-jihanki</link>
+      <description>実験系YouTuberの大村ケンタが、制作期間6ヶ月をかけた大型検証動画「無人島に自販機を設置したら売れるのか」を公開した。許可取得から電源確保まで全工程を記録した52分の大作で、検証結果は「0本」。しかし終盤で明かされる「本当に検証したかったこと」が感動的だと話題になり、公開2日で再生数280万を突破した。</description>
+      <pubDate>Wed, 12 Aug 2026 00:30:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://example.com/watch?v=omura-jihanki">無人島に自販機を設置したら売れるのか【6ヶ月検証】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-omura-shippai-koukoku</guid>
+      <title>大村ケンタ「失敗した企画、全部見せます」。お蔵入り動画3本を供養する異例の総集編</title>
+      <link>https://kotatsu.example.com/articles/omura-shippai-koukoku</link>
+      <description>大村ケンタが、完成に至らずお蔵入りになった企画3本の未公開映像をまとめた「失敗供養」動画を公開した。中止理由は安全性の問題、許可が下りなかった、単純に面白くならなかったの3パターン。かかった費用も公開し「失敗を見せないほうが不誠実」と語る姿勢に、同業クリエイターからも反響が広がっている。</description>
+      <pubDate>Fri, 07 Aug 2026 01:00:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://example.com/watch?v=omura-kuyou">お蔵入りした企画、全部供養します【総額600万】</source>
+    </item>
+  </channel>
+</rss>

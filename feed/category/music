@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 音楽</title>
+    <link>https://kotatsu.example.com/feed/category/music</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:02 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-yoasobi-yoru-ni-kakeru-mv</guid>
+      <title>YOASOBI「夜に駆ける」MVはなぜ今も再生され続けるのか。小説から生まれた曲の「読み直し」文化</title>
+      <link>https://kotatsu.example.com/articles/yoasobi-yoru-ni-kakeru-mv</link>
+      <description>YOASOBIのデビュー曲「夜に駆ける」のオフィシャルMVは、公開から年月を経た今も再生され続けている。小説を音楽にするというユニットのコンセプトを象徴する1曲で、原作小説を読んでからMVを見返す「読み直し」の楽しみ方も定着。ストリーミング時代の日本のポップスを語る上で外せない映像だ。</description>
+      <pubDate>Wed, 12 Aug 2026 21:30:00 GMT</pubDate>
+      <category>music</category>
+      <source url="https://www.youtube.com/watch?v=x8VYWazR5mE">YOASOBI「夜に駆ける」 Official Music Video</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-rio-neon-zahyou-seisaku</guid>
+      <title>西園寺リオ、新曲「ネオン座標」の制作過程を全公開。ボツになった3つのサビも披露</title>
+      <link>https://kotatsu.example.com/articles/rio-neon-zahyou-seisaku</link>
+      <description>歌唱系VTuberの西園寺リオが、9月リリース予定の新曲「ネオン座標」の制作過程を公開する配信を行った。ボツになった3パターンのサビをデモ音源ごと披露し、採用版との比較で「なぜこの形になったか」を解説。作曲担当者も音声参加し、制作者同士の本音のやり取りが聞ける回として楽曲制作界隈からも注目されている。</description>
+      <pubDate>Mon, 10 Aug 2026 02:00:00 GMT</pubDate>
+      <category>music</category>
+      <source url="https://example.com/watch?v=rio-neon">【制作全公開】新曲のボツ案、全部聴かせます</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-rio-100m-views</guid>
+      <title>西園寺リオの歌ってみたが累計1億回再生を突破。「数字より嬉しかったコメント」を配信で紹介</title>
+      <link>https://kotatsu.example.com/articles/rio-100m-views</link>
+      <description>西園寺リオの歌ってみた動画の累計再生数が1億回を突破した。記念配信では再生数の推移を振り返りつつ、本人が「数字より嬉しかった」という視聴者コメントを紹介。「あなたの歌で退院の日が楽しみになった」というコメントを読み上げる場面では声を詰まらせ、ファンとの関係性が伝わる配信として評判になっている。</description>
+      <pubDate>Sun, 09 Aug 2026 02:00:00 GMT</pubDate>
+      <category>music</category>
+      <source url="https://example.com/watch?v=rio-100m">【感謝】1億回再生ありがとう配信</source>
+    </item>
+  </channel>
+</rss>

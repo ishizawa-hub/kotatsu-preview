@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 朝倉未来の記事</title>
+    <link>https://kotatsu.example.com/feed/person/asakura-mikuru</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-breakingdown-2025-soushuhen</guid>
+      <title>BreakingDown、2025年の「ブチギレ乱闘シーン」総集編が1時間31分の超大作に。なぜ人は煽り合いから目が離せないのか</title>
+      <link>https://kotatsu.example.com/articles/breakingdown-2025-soushuhen</link>
+      <description>格闘技イベントBreakingDown関連の切り抜きチャンネルが、2025年の乱闘・衝突シーンを集めた総集編を公開した。1時間31分にわたりオーディションや会見での激突場面が続く構成で、イベントの「筋書きのない衝突」という魅力と危うさが凝縮されている。賛否はありつつも、再生数はイベント人気の根強さを示している。</description>
+      <pubDate>Thu, 13 Aug 2026 13:00:00 GMT</pubDate>
+      <category>kakutougi</category>
+      <source url="https://www.youtube.com/watch?v=r0sxRvYnO08">【永久保存版】2025年ブレイキングダウンのブチギレ乱闘シーン総集編【BreakingDown/朝倉未来/溝口勇児】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-asakura-mikuru-30min-sleep</guid>
+      <title>朝倉未来「1日30分しか寝ない人」に本気で話を聞く。かみ合わない会話がなぜか面白い26分</title>
+      <link>https://kotatsu.example.com/articles/asakura-mikuru-30min-sleep</link>
+      <description>朝倉未来が自身のチャンネルで「1日30分しか寝ない人に話を聞いてみた」を公開した。睡眠30分を自称する人物へ本人が直接インタビューする26分の企画で、疑いながらも興味津々な朝倉のツッコミと、動じない相手との温度差が見どころ。格闘技以外の企画動画でも数字を出すチャンネルの地力が分かる1本だ。</description>
+      <pubDate>Thu, 13 Aug 2026 11:30:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://www.youtube.com/watch?v=D-0TtzJQc-k">1日30分しか寝ない人に話を聞いてみた</source>
+    </item>
+  </channel>
+</rss>

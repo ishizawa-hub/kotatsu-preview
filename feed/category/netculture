@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU ネット文化・ミーム</title>
+    <link>https://kotatsu.example.com/feed/category/netculture</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:02 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-niconico-onmyoji</guid>
+      <title>ニコニコ文化財「レッツゴー！陰陽師」を記事内で再生【ニコニコ埋め込み確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-niconico-onmyoji</link>
+      <description>ニコニコ動画のコンテンツID『sm9』は、格闘ゲーム『新・豪血寺一族』の主題歌「レッツゴー！陰陽師」。ニコニコ文化財にも選ばれた定番動画を、公式プレイヤーで記事内にそのまま埋め込んで再生できます。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>netculture</category>
+      <source url="https://www.nicovideo.jp/watch/sm9">ニコニコ動画：通常動画（公式プレイヤー。コメントが流れる文化ごと再生）</source>
+    </item>
+  </channel>
+</rss>

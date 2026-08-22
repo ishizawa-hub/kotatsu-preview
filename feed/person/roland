@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU ROLANDの記事</title>
+    <link>https://kotatsu.example.com/feed/person/roland</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-roland-kuroshitsuji-mensetsu</guid>
+      <title>ROLAND、非公開だった「黒執事」の極秘面接に密着。ホストクラブの採用基準が意外なほど真っ当だった</title>
+      <link>https://kotatsu.example.com/articles/roland-kuroshitsuji-mensetsu</link>
+      <description>ROLANDの公式チャンネルが、これまで非公開だった系列店「黒執事」の面接と新人の初出勤に密着した動画を公開した。華やかなイメージの裏で、採用で見られているのは礼儀や覚悟といった意外なほど真っ当な基準。夜職の実際の働き方を、美化も誇張もせず見せる構成が支持を集めている。</description>
+      <pubDate>Wed, 12 Aug 2026 22:00:00 GMT</pubDate>
+      <category>yorushoku</category>
+      <source url="https://www.youtube.com/watch?v=wlfFYE51pZs">【ホストコール】非公開だった黒執事の極秘面接&amp;6期生の初出勤初日【完全密着】</source>
+    </item>
+  </channel>
+</rss>

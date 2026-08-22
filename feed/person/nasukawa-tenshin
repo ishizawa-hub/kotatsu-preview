@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 那須川天心の記事</title>
+    <link>https://kotatsu.example.com/feed/person/nasukawa-tenshin</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-tenshin-kagawa-taidan</guid>
+      <title>香川照之×那須川天心、9.27決戦を語る異色対談。俳優が引き出す「試合前の本音」が濃い</title>
+      <link>https://kotatsu.example.com/articles/tenshin-kagawa-taidan</link>
+      <description>帝拳プロモーションの公式チャンネルで、香川照之と那須川天心の対談動画が公開されている。Prime Video Boxingでの井上拓真戦を前に、試合への考えを俳優・香川が聞き出す構成。競技記者のインタビューとは違う角度の質問が天心の本音を引き出しており、試合前に見ておきたい1本になっている。</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>kakutougi</category>
+      <source url="https://www.youtube.com/watch?v=75M1AjVgNzA">香川照之×那須川天心 9.27決戦を語る！PART２　Prime Video Boxing 16　井上拓真vs那須川天心</source>
+    </item>
+  </channel>
+</rss>

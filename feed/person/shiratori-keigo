@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 白鳥圭吾の記事</title>
+    <link>https://kotatsu.example.com/feed/person/shiratori-keigo</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-shiratori-lastround-oshihiki</guid>
+      <title>白鳥圭吾、リーグ最終戦の「オリ打ち」を1時間かけて自己検証。「押し引きの教科書」と称賛される神回に</title>
+      <link>https://kotatsu.example.com/articles/shiratori-lastround-oshihiki</link>
+      <description>プロ雀士の白鳥圭吾が、リーグ最終戦で敗着と話題になった終盤の一打を自ら検証する配信を行った。ネット上で「オリるべきだった」と批判された場面を、牌譜と期待値計算で1時間かけて分析。結論は「押し自体は正着、ミスはその2巡前」というもので、感情を排した自己検証の姿勢が麻雀ファン以外からも称賛されている。</description>
+      <pubDate>Thu, 13 Aug 2026 03:30:00 GMT</pubDate>
+      <category>mahjong</category>
+      <source url="https://example.com/watch?v=keigo-hansei">【一人反省会】最終戦の「敗着」、本当にミスだったのか検証する</source>
+    </item>
+  </channel>
+</rss>

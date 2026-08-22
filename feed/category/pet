@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU ペット・動物</title>
+    <link>https://kotatsu.example.com/feed/category/pet</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-tiktok-scout-pets</guid>
+      <title>名前を混ぜたら当てられる？ 猫たちの人気TikTok【TikTok埋め込み確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-tiktok-scout-pets</link>
+      <description>TikTokの人気投稿（@scout2015）は、飼い猫のScout・Suki・Stellaが登場する縦型動画。『名前を混ぜたら当ててみせる』というノリの一本で、公式プレイヤーを使えばこうしたTikTok投稿を記事内にそのまま埋め込めます。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>pet</category>
+      <source url="https://www.tiktok.com/@scout2015/video/6718335390845095173">TikTok：動画投稿（公式プレイヤー v1）。写真投稿は公式blockquoteにフォールバック</source>
+    </item>
+  </channel>
+</rss>

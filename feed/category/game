@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU ゲーム</title>
+    <link>https://kotatsu.example.com/feed/category/game</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kiyo-chokousoku-aooni2</guid>
+      <title>キヨ、話題の『超高速青鬼2』を3時間43分ぶっ通し実況。「怖いのに笑ってしまう」の最高峰</title>
+      <link>https://kotatsu.example.com/articles/kiyo-chokousoku-aooni2</link>
+      <description>ゲーム実況者のキヨが、話題の新作ホラー『超高速青鬼2 ブルーベリー臨海学校』の実況アーカイブを公開した。3時間43分の長尺ながら、絶叫とツッコミが交互に来るテンポで体感時間は短い。定番ホラー「青鬼」系パロディと国内トップ実況者の相性の良さを改めて証明する1本になっている。</description>
+      <pubDate>Thu, 13 Aug 2026 05:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://www.youtube.com/watch?v=Hu5bhR6eyBo">話題の完全新作ホラーゲーム『 超高速青鬼2 ブルーベリー臨海学校 』</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-akari-shinsou-no-ie-clear</guid>
+      <title>篠原あかり、発売3日の高難度ホラー「深層ノ家」を7時間ぶっ通しでクリア。「叫びすぎて声が出ない」</title>
+      <link>https://kotatsu.example.com/articles/akari-shinsou-no-ie-clear</link>
+      <description>ゲーム実況者の篠原あかりが、発売3日で「難しすぎる」と話題のホラーゲーム「深層ノ家」を7時間の生配信で初見クリアした。序盤は絶叫の連続だったが、終盤の謎解きパートでは一転して静かな集中モードに入り、その切り替えぶりが「これぞあかりん」と話題に。アーカイブは公開から半日で45万再生を超えた。</description>
+      <pubDate>Wed, 12 Aug 2026 23:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/watch?v=akari-shinsou">【深層ノ家】発売3日の激ムズホラー、初見で終わらせる【生配信】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-hikaru-kokunai-kessen</guid>
+      <title>諸星ヒカル、国内最大FPS大会の決勝で0-2からの逆転優勝。最終マップの1v3が「今年最高のクラッチ」</title>
+      <link>https://kotatsu.example.com/articles/hikaru-kokunai-kessen</link>
+      <description>ストリーマーの諸星ヒカルが率いるチームが、8月10日の国内最大級FPS大会決勝で0-2から3マップを連取する逆転優勝を果たした。最終マップ終盤の1対3クラッチは「今年最高」と評され、SNSのトレンド1位を記録。本人視点の配信アーカイブでは、公式中継では聞けないチーム内の立て直しの声がけが残っている。</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/twitch/hikaru-final">国内大会 GRAND FINAL - hikaru_stream 視点</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-akari-taikai-kaisetsu-debut</guid>
+      <title>篠原あかり、公式大会のゲスト解説に初挑戦。「実況者の解説」が新しい標準になるかもしれない</title>
+      <link>https://kotatsu.example.com/articles/akari-taikai-kaisetsu-debut</link>
+      <description>篠原あかりがアクションゲームの公式大会にゲスト解説として初出演した。競技経験者ではなく実況者という立場から「プレイヤーが今何を怖がっているか」を言語化する解説スタイルが新鮮だと評判に。大会主催者のアンケートでも解説への好評が目立ち、実況者が大会解説に入る流れが広がる可能性が指摘されている。</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/watch?v=akari-kaisetsu">公式大会 DAY2 - ゲスト解説：篠原あかり</source>
+    </item>
+  </channel>
+</rss>

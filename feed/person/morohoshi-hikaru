@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 諸星ヒカルの記事</title>
+    <link>https://kotatsu.example.com/feed/person/morohoshi-hikaru</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:02 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ai-kirinuki-ronsou</guid>
+      <title>「AI切り抜き」は誰のものか。配信者たちの見解が分かれた1週間を整理する</title>
+      <link>https://kotatsu.example.com/articles/ai-kirinuki-ronsou</link>
+      <description>AIによる自動切り抜き動画の是非をめぐり、この1週間で複数の配信者が相次いで見解を表明した。収益還元を条件に公認する立場、現状維持の黙認、全面拒否まで対応は割れている。本記事では各配信者の発言を時系列で整理し、論点を「収益」「文脈の切断」「確認コスト」の3つに分けてまとめた。</description>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/watch?v=gouda-kirinuki">【雑談】切り抜きの話、ちゃんとします</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-hikaru-kokunai-kessen</guid>
+      <title>諸星ヒカル、国内最大FPS大会の決勝で0-2からの逆転優勝。最終マップの1v3が「今年最高のクラッチ」</title>
+      <link>https://kotatsu.example.com/articles/hikaru-kokunai-kessen</link>
+      <description>ストリーマーの諸星ヒカルが率いるチームが、8月10日の国内最大級FPS大会決勝で0-2から3マップを連取する逆転優勝を果たした。最終マップ終盤の1対3クラッチは「今年最高」と評され、SNSのトレンド1位を記録。本人視点の配信アーカイブでは、公式中継では聞けないチーム内の立て直しの声がけが残っている。</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/twitch/hikaru-final">国内大会 GRAND FINAL - hikaru_stream 視点</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-hikaru-12h-charity</guid>
+      <title>諸星ヒカル、12時間チャリティ配信で寄付総額2,400万円。「ゲームで集まったお金」の行き先まで報告</title>
+      <link>https://kotatsu.example.com/articles/hikaru-12h-charity</link>
+      <description>諸星ヒカルが災害支援を目的とした12時間チャリティ配信を実施し、寄付総額は2,400万円に達した。ゲスト参加のリレー形式で飽きさせない構成に加え、寄付金の送金先・手数料・税務処理までを後日配信で報告すると宣言。透明性を重視した運営が「配信チャリティの新標準」と評価されている。</description>
+      <pubDate>Mon, 03 Aug 2026 01:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/twitch/hikaru-charity">12H CHARITY MARATHON - hikaru_stream</source>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 小鳥遊ななの記事</title>
+    <link>https://kotatsu.example.com/feed/person/takanashi-nana</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:02 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-nana-ryouri-daishippai</guid>
+      <title>小鳥遊なな、大型料理企画で史上最大の失敗。それでも「神回」と呼ばれる理由</title>
+      <link>https://kotatsu.example.com/articles/nana-ryouri-daishippai</link>
+      <description>タレントの小鳥遊ななが公開した料理動画で、3時間かけて作った3段ケーキが完成直前に崩壊するハプニングが発生した。しかし崩壊後も笑いながら「食べれば同じ」とリカバリーする姿が「テレビでは見られない素の魅力」と評判になり、失敗動画としては異例の高評価率を記録。コメント欄には励ましと共感が並んでいる。</description>
+      <pubDate>Tue, 11 Aug 2026 01:30:00 GMT</pubDate>
+      <category>geinou</category>
+      <source url="https://example.com/watch?v=nana-cake">【3時間クッキング】人生最大の3段ケーキに挑戦したら</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-nana-tv-collab</guid>
+      <title>小鳥遊なな、番組共演者との「NGなし質問回」が公開。テレビでは聞けない話の連続に</title>
+      <link>https://kotatsu.example.com/articles/nana-tv-collab</link>
+      <description>小鳥遊ななのチャンネルで、バラエティ番組の共演者をゲストに迎えた「NGなし質問回」が公開された。互いのギャラ交渉、仕事の断り方、番組収録の裏側など、テレビでは扱いにくい話題に踏み込みつつ、下品にならない絶妙なバランスで進行。「チャンネルの意味がある回」と視聴者から高評価を得ている。</description>
+      <pubDate>Fri, 07 Aug 2026 02:30:00 GMT</pubDate>
+      <category>geinou</category>
+      <source url="https://example.com/watch?v=nana-ngnashi">【NGなし】あの人と質問カードで本音トーク</source>
+    </item>
+  </channel>
+</rss>

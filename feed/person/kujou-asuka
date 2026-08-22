@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 九条飛鳥の記事</title>
+    <link>https://kotatsu.example.com/feed/person/kujou-asuka</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kujou-ai-goe-no-itte</guid>
+      <title>九条飛鳥、タイトル戦で飛び出した「AI超えの一手」を解説。将棋を知らない人向けの導入が見事すぎると話題</title>
+      <link>https://kotatsu.example.com/articles/kujou-ai-goe-no-itte</link>
+      <description>女流棋士の九条飛鳥が、タイトル戦で話題になった「AIの推奨から外れた勝負手」の解説動画を公開した。評価値上は一時不利に振れる一手がなぜ実戦で勝ちに結びついたのかを、持ち時間・心理・終盤の読み切りやすさという人間側の要素から説明。将棋を知らない視聴者向けの導入パートが丁寧で、観る将の入門動画としても広まっている。</description>
+      <pubDate>Wed, 12 Aug 2026 01:00:00 GMT</pubDate>
+      <category>shogi</category>
+      <source url="https://example.com/watch?v=asuka-aigoe">【タイトル戦】AIが推さなかった勝負手、なぜ勝てたのか</source>
+    </item>
+  </channel>
+</rss>

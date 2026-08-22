@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU キヨの記事</title>
+    <link>https://kotatsu.example.com/feed/person/kiyo</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 22 Aug 2026 16:56:03 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kiyo-chokousoku-aooni2</guid>
+      <title>キヨ、話題の『超高速青鬼2』を3時間43分ぶっ通し実況。「怖いのに笑ってしまう」の最高峰</title>
+      <link>https://kotatsu.example.com/articles/kiyo-chokousoku-aooni2</link>
+      <description>ゲーム実況者のキヨが、話題の新作ホラー『超高速青鬼2 ブルーベリー臨海学校』の実況アーカイブを公開した。3時間43分の長尺ながら、絶叫とツッコミが交互に来るテンポで体感時間は短い。定番ホラー「青鬼」系パロディと国内トップ実況者の相性の良さを改めて証明する1本になっている。</description>
+      <pubDate>Thu, 13 Aug 2026 05:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://www.youtube.com/watch?v=Hu5bhR6eyBo">話題の完全新作ホラーゲーム『 超高速青鬼2 ブルーベリー臨海学校 』</source>
+    </item>
+  </channel>
+</rss>
