@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU YouTuber</title>
+    <link>https://kotatsu.example.com/feed/category/youtuber</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-youtube-hikakin-roomtour</guid>
+      <title>ヒカキン、8年ぶりの新居を公開。1時間28分のルームツアー【YouTube埋め込み確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-youtube-hikakin-roomtour</link>
+      <description>HikakinTVが8年ぶりの引っ越しを報告し、2部屋を紹介する1時間28分のルームツアーを公開。下の公式プレイヤーで本編をそのまま再生できます。YouTubeは通常動画・ショート・ライブすべて同じ公式埋め込みに対応します。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://www.youtube.com/watch?v=YJOIMMpSX78">YouTube：通常投稿・ライブ・ショート（すべて同じ youtube-nocookie 埋め込み。ショートは9:16で表示）</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-hikakin-shinkyo-roomtour-2026</guid>
+      <title>ヒカキン、8年ぶりの引っ越しを報告。新居ルームツアーで見せた「変わらない見せ方」がすごい</title>
+      <link>https://kotatsu.example.com/articles/hikakin-shinkyo-roomtour-2026</link>
+      <description>HIKAKINがメインチャンネルHikakinTVで新居のルームツアー動画を公開した。8年ぶりの引っ越しを報告し、2部屋を紹介する1時間28分の大ボリューム。新居公開はHIKAKINの代名詞的な企画で、過去の新居動画も大きな話題を集めてきた。今回も公開直後から急上昇に入り、コメント欄はお祝いの声で埋まっている。</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://www.youtube.com/watch?v=YJOIMMpSX78">【2部屋紹介】ヒカキン新居ルームツアー2026【8年ぶりの引っ越し】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-asakura-mikuru-30min-sleep</guid>
+      <title>朝倉未来「1日30分しか寝ない人」に本気で話を聞く。かみ合わない会話がなぜか面白い26分</title>
+      <link>https://kotatsu.example.com/articles/asakura-mikuru-30min-sleep</link>
+      <description>朝倉未来が自身のチャンネルで「1日30分しか寝ない人に話を聞いてみた」を公開した。睡眠30分を自称する人物へ本人が直接インタビューする26分の企画で、疑いながらも興味津々な朝倉のツッコミと、動じない相手との温度差が見どころ。格闘技以外の企画動画でも数字を出すチャンネルの地力が分かる1本だ。</description>
+      <pubDate>Thu, 13 Aug 2026 11:30:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://www.youtube.com/watch?v=D-0TtzJQc-k">1日30分しか寝ない人に話を聞いてみた</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-omura-mujintou-jihanki</guid>
+      <title>大村ケンタ、制作6ヶ月「無人島に自販機を設置したら売れるのか」がついに公開。想定外の結末に</title>
+      <link>https://kotatsu.example.com/articles/omura-mujintou-jihanki</link>
+      <description>実験系YouTuberの大村ケンタが、制作期間6ヶ月をかけた大型検証動画「無人島に自販機を設置したら売れるのか」を公開した。許可取得から電源確保まで全工程を記録した52分の大作で、検証結果は「0本」。しかし終盤で明かされる「本当に検証したかったこと」が感動的だと話題になり、公開2日で再生数280万を突破した。</description>
+      <pubDate>Wed, 12 Aug 2026 00:30:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://example.com/watch?v=omura-jihanki">無人島に自販機を設置したら売れるのか【6ヶ月検証】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-omura-shippai-koukoku</guid>
+      <title>大村ケンタ「失敗した企画、全部見せます」。お蔵入り動画3本を供養する異例の総集編</title>
+      <link>https://kotatsu.example.com/articles/omura-shippai-koukoku</link>
+      <description>大村ケンタが、完成に至らずお蔵入りになった企画3本の未公開映像をまとめた「失敗供養」動画を公開した。中止理由は安全性の問題、許可が下りなかった、単純に面白くならなかったの3パターン。かかった費用も公開し「失敗を見せないほうが不誠実」と語る姿勢に、同業クリエイターからも反響が広がっている。</description>
+      <pubDate>Fri, 07 Aug 2026 01:00:00 GMT</pubDate>
+      <category>youtuber</category>
+      <source url="https://example.com/watch?v=omura-kuyou">お蔵入りした企画、全部供養します【総額600万】</source>
+    </item>
+  </channel>
+</rss>

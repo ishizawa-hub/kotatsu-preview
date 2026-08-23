@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 猫宮こたつの記事</title>
+    <link>https://kotatsu.example.com/feed/person/nekomiya-kotatsu</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:40 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-nekomiya-1m-3d-project</guid>
+      <title>【速報】猫宮こたつ、100万人目前で「3D化プロジェクト」始動を発表。ファン参加型の制作過程公開へ</title>
+      <link>https://kotatsu.example.com/articles/nekomiya-1m-3d-project</link>
+      <description>VTuberの猫宮こたつが8月12日の配信で、登録者100万人達成を記念した3D化プロジェクトの始動を発表した。制作過程を毎月配信で公開するファン参加型の企画で、衣装デザインの一部は視聴者公募になる。発表の瞬間、同時視聴者数は自己最高の8万4千人に達した。</description>
+      <pubDate>Thu, 13 Aug 2026 01:30:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-todays-live-digest-0812</guid>
+      <title>【今日のまとめ】8月12日のライブ配信、見るべきはこの5本。合計21時間を20秒×5で追う</title>
+      <link>https://kotatsu.example.com/articles/todays-live-digest-0812</link>
+      <description>8月12日に行われた注目ライブ配信5本の要点をまとめた。猫宮こたつの3D化発表、篠原あかりの高難度ホラー7時間クリア、剛田タケルの雑談回など、合計21時間分の配信からそれぞれの核心部分をタイムスタンプ付きで抽出。各配信20秒ずつで今日のネットの動きを把握できる。</description>
+      <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ai-kirinuki-ronsou</guid>
+      <title>「AI切り抜き」は誰のものか。配信者たちの見解が分かれた1週間を整理する</title>
+      <link>https://kotatsu.example.com/articles/ai-kirinuki-ronsou</link>
+      <description>AIによる自動切り抜き動画の是非をめぐり、この1週間で複数の配信者が相次いで見解を表明した。収益還元を条件に公認する立場、現状維持の黙認、全面拒否まで対応は割れている。本記事では各配信者の発言を時系列で整理し、論点を「収益」「文脈の切断」「確認コスト」の3つに分けてまとめた。</description>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/watch?v=gouda-kirinuki">【雑談】切り抜きの話、ちゃんとします</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kotatsu-rio-collab-utawaku</guid>
+      <title>猫宮こたつ×西園寺リオ、初コラボ歌枠が実現。「猫とネオン」の異色デュエットに10万人が集まった</title>
+      <link>https://kotatsu.example.com/articles/kotatsu-rio-collab-utawaku</link>
+      <description>猫宮こたつと西園寺リオによる初のコラボ歌枠が8月9日に行われ、同時視聴者数は両チャンネル合算で10万人を超えた。歌唱力に定評のあるリオと「歌はゆるく」派のこたつという異色の組み合わせだが、互いのスタイルを尊重したセットリストが好評。コラボ実現のきっかけが視聴者からの1通の匿名メッセージだったことも明かされた。</description>
+      <pubDate>Mon, 10 Aug 2026 01:00:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://example.com/watch?v=kotatsu-rio">【初コラボ】リオさんと歌います【猫とネオン】</source>
+    </item>
+  </channel>
+</rss>

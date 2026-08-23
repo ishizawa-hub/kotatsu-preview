@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 篠原あかりの記事</title>
+    <link>https://kotatsu.example.com/feed/person/shinohara-akari</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-akari-shinsou-no-ie-clear</guid>
+      <title>篠原あかり、発売3日の高難度ホラー「深層ノ家」を7時間ぶっ通しでクリア。「叫びすぎて声が出ない」</title>
+      <link>https://kotatsu.example.com/articles/akari-shinsou-no-ie-clear</link>
+      <description>ゲーム実況者の篠原あかりが、発売3日で「難しすぎる」と話題のホラーゲーム「深層ノ家」を7時間の生配信で初見クリアした。序盤は絶叫の連続だったが、終盤の謎解きパートでは一転して静かな集中モードに入り、その切り替えぶりが「これぞあかりん」と話題に。アーカイブは公開から半日で45万再生を超えた。</description>
+      <pubDate>Wed, 12 Aug 2026 23:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/watch?v=akari-shinsou">【深層ノ家】発売3日の激ムズホラー、初見で終わらせる【生配信】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-todays-live-digest-0812</guid>
+      <title>【今日のまとめ】8月12日のライブ配信、見るべきはこの5本。合計21時間を20秒×5で追う</title>
+      <link>https://kotatsu.example.com/articles/todays-live-digest-0812</link>
+      <description>8月12日に行われた注目ライブ配信5本の要点をまとめた。猫宮こたつの3D化発表、篠原あかりの高難度ホラー7時間クリア、剛田タケルの雑談回など、合計21時間分の配信からそれぞれの核心部分をタイムスタンプ付きで抽出。各配信20秒ずつで今日のネットの動きを把握できる。</description>
+      <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-akari-taikai-kaisetsu-debut</guid>
+      <title>篠原あかり、公式大会のゲスト解説に初挑戦。「実況者の解説」が新しい標準になるかもしれない</title>
+      <link>https://kotatsu.example.com/articles/akari-taikai-kaisetsu-debut</link>
+      <description>篠原あかりがアクションゲームの公式大会にゲスト解説として初出演した。競技経験者ではなく実況者という立場から「プレイヤーが今何を怖がっているか」を言語化する解説スタイルが新鮮だと評判に。大会主催者のアンケートでも解説への好評が目立ち、実況者が大会解説に入る流れが広がる可能性が指摘されている。</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <category>game</category>
+      <source url="https://example.com/watch?v=akari-kaisetsu">公式大会 DAY2 - ゲスト解説：篠原あかり</source>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 真壁俊介の記事</title>
+    <link>https://kotatsu.example.com/feed/person/makabe-shunsuke</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-makabe-soshiki-houkai</guid>
+      <title>「組織崩壊は音もなく始まる」。真壁俊介が語る危険な兆候7つに、管理職の共感が止まらない</title>
+      <link>https://kotatsu.example.com/articles/makabe-soshiki-houkai</link>
+      <description>真壁俊介の対談チャンネルで「組織崩壊の兆候」をテーマにした回が公開された。ゲストは組織再建を専門とする経営者。2人が自社の失敗経験から抽出した「会議で反対意見が出なくなる」「優秀な中堅の雑談が減る」など7つの兆候リストは、管理職層を中心にSNSで広く共有されている。</description>
+      <pubDate>Wed, 12 Aug 2026 22:30:00 GMT</pubDate>
+      <category>business</category>
+      <source url="https://example.com/watch?v=makabe-48">真壁会議 #48 組織崩壊は音もなく始まる</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-makabe-podcast-joujougo</guid>
+      <title>真壁俊介、音声限定回で語った「上場後の孤独」。映像では話せなかった本音がポッドキャストで</title>
+      <link>https://kotatsu.example.com/articles/makabe-podcast-joujougo</link>
+      <description>真壁俊介がポッドキャスト「真壁会議 音声版」の音声限定回で、上場後に経験した孤独について語った。株主・社員・旧友との関係が上場を境にどう変わったかを、映像回では避けてきた具体度で告白。「カメラがあると顔を作ってしまう」という理由で音声限定にしたことも明かし、音声メディアならではの回として共感を呼んでいる。</description>
+      <pubDate>Tue, 11 Aug 2026 05:00:00 GMT</pubDate>
+      <category>business</category>
+      <source url="https://example.com/podcast/makabe-12">真壁会議 音声版 #12 上場後の孤独（音声限定回）</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-makabe-shikin-shippai</guid>
+      <title>真壁俊介「一番恥ずかしい失敗を話す」。資金調達で3億円を溶かした話が経営者界隈で話題に</title>
+      <link>https://kotatsu.example.com/articles/makabe-shikin-shippai</link>
+      <description>経営者の真壁俊介が対談チャンネル「真壁会議」で、自身の資金調達の失敗を詳細に語った回が公開された。調達した3億円を1年で失った経緯を、当時の判断ミスごとに分解して解説。ゲストの上場企業CFO（匿名出演）による「投資家側から見た危険信号」の解説と合わせ、起業家コミュニティで必見動画として拡散されている。</description>
+      <pubDate>Sun, 09 Aug 2026 01:00:00 GMT</pubDate>
+      <category>business</category>
+      <source url="https://example.com/watch?v=makabe-47">真壁会議 #47 資金調達の失敗、全部話します</source>
+    </item>
+  </channel>
+</rss>

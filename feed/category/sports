@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU スポーツ</title>
+    <link>https://kotatsu.example.com/feed/category/sports</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:40 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-toda-iseki-kaisetsu</guid>
+      <title>戸田倫也、日本人MFの海外移籍を「10分の戦術ボード」で解説。「なぜこのクラブなのか」が一発で分かる</title>
+      <link>https://kotatsu.example.com/articles/toda-iseki-kaisetsu</link>
+      <description>サッカー解説者の戸田倫也が、日本代表MFの欧州移籍を戦術面から解説する動画を公開した。移籍金や序列の話題をあえて外し、新クラブの布陣で当該選手がどこで生きるかだけを10分のボード解説で示す構成。「移籍ニュースで一番知りたかったのはこれ」という反応が広がり、公開翌日で再生数50万を超えている。</description>
+      <pubDate>Thu, 13 Aug 2026 00:30:00 GMT</pubDate>
+      <category>sports</category>
+      <source url="https://example.com/watch?v=toda-iseki">【10分戦術ボード】日本代表MFの移籍先、なぜあのクラブなのか</source>
+    </item>
+  </channel>
+</rss>

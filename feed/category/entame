@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU エンタメ</title>
+    <link>https://kotatsu.example.com/feed/category/entame</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-todays-live-digest-0812</guid>
+      <title>【今日のまとめ】8月12日のライブ配信、見るべきはこの5本。合計21時間を20秒×5で追う</title>
+      <link>https://kotatsu.example.com/articles/todays-live-digest-0812</link>
+      <description>8月12日に行われた注目ライブ配信5本の要点をまとめた。猫宮こたつの3D化発表、篠原あかりの高難度ホラー7時間クリア、剛田タケルの雑談回など、合計21時間分の配信からそれぞれの核心部分をタイムスタンプ付きで抽出。各配信20秒ずつで今日のネットの動きを把握できる。</description>
+      <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-tokai-onair-anchoku-quiz</guid>
+      <title>東海オンエア「安直イズ」が天才企画すぎる。初見なのに答えられるクイズ、の異常な面白さ</title>
+      <link>https://kotatsu.example.com/articles/tokai-onair-anchoku-quiz</link>
+      <description>東海オンエアが公開した「安直イズ」は、初見の問題なのになぜか答えられてしまう安直なクイズで対決する企画だ。知識ではなく出題者の思考を読む大喜利的な構造で、メンバー同士の距離の近さが正答とボケの両方を生む。撮って出しに近い作りでも企画の設計だけで23分持たせる、グループの地力が出た回だ。</description>
+      <pubDate>Wed, 12 Aug 2026 20:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://www.youtube.com/watch?v=5Hhi0wLZwfk">初見なのになぜか答えられる！！安直イズ！！！</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-hikaru-12h-charity</guid>
+      <title>諸星ヒカル、12時間チャリティ配信で寄付総額2,400万円。「ゲームで集まったお金」の行き先まで報告</title>
+      <link>https://kotatsu.example.com/articles/hikaru-12h-charity</link>
+      <description>諸星ヒカルが災害支援を目的とした12時間チャリティ配信を実施し、寄付総額は2,400万円に達した。ゲスト参加のリレー形式で飽きさせない構成に加え、寄付金の送金先・手数料・税務処理までを後日配信で報告すると宣言。透明性を重視した運営が「配信チャリティの新標準」と評価されている。</description>
+      <pubDate>Mon, 03 Aug 2026 01:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/twitch/hikaru-charity">12H CHARITY MARATHON - hikaru_stream</source>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 剛田タケルの記事</title>
+    <link>https://kotatsu.example.com/feed/person/gouda-takeru</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-todays-live-digest-0812</guid>
+      <title>【今日のまとめ】8月12日のライブ配信、見るべきはこの5本。合計21時間を20秒×5で追う</title>
+      <link>https://kotatsu.example.com/articles/todays-live-digest-0812</link>
+      <description>8月12日に行われた注目ライブ配信5本の要点をまとめた。猫宮こたつの3D化発表、篠原あかりの高難度ホラー7時間クリア、剛田タケルの雑談回など、合計21時間分の配信からそれぞれの核心部分をタイムスタンプ付きで抽出。各配信20秒ずつで今日のネットの動きを把握できる。</description>
+      <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
+      <category>entame</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ai-kirinuki-ronsou</guid>
+      <title>「AI切り抜き」は誰のものか。配信者たちの見解が分かれた1週間を整理する</title>
+      <link>https://kotatsu.example.com/articles/ai-kirinuki-ronsou</link>
+      <description>AIによる自動切り抜き動画の是非をめぐり、この1週間で複数の配信者が相次いで見解を表明した。収益還元を条件に公認する立場、現状維持の黙認、全面拒否まで対応は割れている。本記事では各配信者の発言を時系列で整理し、論点を「収益」「文脈の切断」「確認コスト」の3つに分けてまとめた。</description>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/watch?v=gouda-kirinuki">【雑談】切り抜きの話、ちゃんとします</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-gouda-shinya-urabanashi</guid>
+      <title>剛田タケル、深夜配信で賞レース決勝の舞台裏を告白。「ネタを変えたのは出番3分前」</title>
+      <link>https://kotatsu.example.com/articles/gouda-shinya-urabanashi</link>
+      <description>お笑い芸人の剛田タケルが8月10日の深夜配信で、昨年の賞レース決勝の舞台裏を初めて詳しく語った。出番3分前にネタの出だしを差し替えていたこと、それを相方にも直前まで伝えなかったことを告白。「お客さんの空気が前の組で変わった」という判断の理由に、芸人仲間からも共感のコメントが相次いだ。</description>
+      <pubDate>Tue, 11 Aug 2026 03:00:00 GMT</pubDate>
+      <category>owarai</category>
+      <source url="https://example.com/watch?v=gouda-shinya">【深夜】今だから言える話をする回</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-gouda-oogiri-densetsu</guid>
+      <title>剛田タケル、視聴者参加型の大喜利生配信で「伝説の回答」が誕生。本人が笑いすぎて配信中断</title>
+      <link>https://kotatsu.example.com/articles/gouda-oogiri-densetsu</link>
+      <description>剛田タケルが月例の視聴者参加型大喜利配信を実施し、視聴者の回答に本人が笑い崩れて配信が3分間中断する事態となった。「プロが素人の回答で崩壊する瞬間」として切り抜きが拡散され、当該回答は本人公認で「殿堂入り」に認定。配信文化と大喜利文化の相性の良さを示す回として話題になっている。</description>
+      <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
+      <category>owarai</category>
+      <source url="https://example.com/watch?v=gouda-oogiri">【月例】視聴者大喜利ライブ 8月場所</source>
+    </item>
+  </channel>
+</rss>

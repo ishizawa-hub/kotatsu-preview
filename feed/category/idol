@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU アイドル</title>
+    <link>https://kotatsu.example.com/feed/category/idol</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-showroom-fallback</guid>
+      <title>SHOWROOMのライブは配信リンク＋Xクリップ導線で紹介【フォールバック確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-showroom-fallback</link>
+      <description>SHOWROOMはアプリ内のライブ配信サービスで、外部サイト向けの公式埋め込みプレイヤーがありません。そこで当サイトは、配信ページへのリンクと『Xで関連クリップを探す』導線をセットで表示し、話題自体は逃さないようにしています。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>idol</category>
+      <source url="https://www.showroom-live.com/r/kotatsu_demo">SHOWROOM：ライブ配信（公式埋め込み無し→配信リンク＋Xで関連クリップを探す導線）</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-pococha-fallback</guid>
+      <title>Pocochaのライブも配信リンク＋Xクリップ導線で紹介【フォールバック確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-pococha-fallback</link>
+      <description>Pococha（ポコチャ）はDeNAが運営するアプリ内ライブ配信サービスで、外部サイト向けの公式埋め込みがありません。当サイトでは配信ページへのリンクと『Xで関連クリップを探す』導線をセットで表示します。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>idol</category>
+      <source url="https://www.pococha.com/app/lives">Pococha：ライブ配信（公式埋め込み無し→配信リンク＋Xで関連クリップを探す導線）</source>
+    </item>
+  </channel>
+</rss>

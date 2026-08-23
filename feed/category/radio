@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU ラジオ（radiko）</title>
+    <link>https://kotatsu.example.com/feed/category/radio</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-radiko-lfr-live</guid>
+      <title>ニッポン放送のいまを記事内で再生【radiko埋め込み確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-radiko-lfr-live</link>
+      <description>radikoは公式のライブ用ボタンプレイヤー（button-embed）に対応しています。ここではニッポン放送（LFR）の現在放送中を記事内でそのまま再生できます。特定回はタイムフリーや番組公式ページへのリンクで案内します。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>radio</category>
+      <source url="https://radiko.jp/#!/live/LFR">radiko：ライブ（公式ボタンプレイヤー）。特定回はタイムフリー/番組ページへリンク</source>
+    </item>
+  </channel>
+</rss>

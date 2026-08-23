@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU VTuber</title>
+    <link>https://kotatsu.example.com/feed/category/vtuber</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-marine-7th-anniversary-3d</guid>
+      <title>宝鐘マリン、水着おうち3Dお披露目＆7周年ライブ振り返りが1時間44分の「船長の集大成」に</title>
+      <link>https://kotatsu.example.com/articles/marine-7th-anniversary-3d</link>
+      <description>ホロライブの宝鐘マリンが、水着おうち3Dのお披露目と7周年ライブ・フェス出演の振り返りを行う配信のアーカイブを公開した。1時間44分にわたり新3Dの披露とここまでの節目を語る構成で、世界トップクラスの登録者を持つ「船長」の現在地が詰まっている。記念配信としての完成度に加え、雑談の温度感が魅力だ。</description>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://www.youtube.com/watch?v=kezHd5aVgdk">【水着おうち3Dお披露目】7周年ライブ＆LuckyFes&apos;26振り返り！【ホロライブ/宝鐘マリン】</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-nekomiya-1m-3d-project</guid>
+      <title>【速報】猫宮こたつ、100万人目前で「3D化プロジェクト」始動を発表。ファン参加型の制作過程公開へ</title>
+      <link>https://kotatsu.example.com/articles/nekomiya-1m-3d-project</link>
+      <description>VTuberの猫宮こたつが8月12日の配信で、登録者100万人達成を記念した3D化プロジェクトの始動を発表した。制作過程を毎月配信で公開するファン参加型の企画で、衣装デザインの一部は視聴者公募になる。発表の瞬間、同時視聴者数は自己最高の8万4千人に達した。</description>
+      <pubDate>Thu, 13 Aug 2026 01:30:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://example.com/watch?v=kotatsu-0812">【雑談】夏バテ対策会議と、ちょっと大事なお知らせ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kotatsu-rio-collab-utawaku</guid>
+      <title>猫宮こたつ×西園寺リオ、初コラボ歌枠が実現。「猫とネオン」の異色デュエットに10万人が集まった</title>
+      <link>https://kotatsu.example.com/articles/kotatsu-rio-collab-utawaku</link>
+      <description>猫宮こたつと西園寺リオによる初のコラボ歌枠が8月9日に行われ、同時視聴者数は両チャンネル合算で10万人を超えた。歌唱力に定評のあるリオと「歌はゆるく」派のこたつという異色の組み合わせだが、互いのスタイルを尊重したセットリストが好評。コラボ実現のきっかけが視聴者からの1通の匿名メッセージだったことも明かされた。</description>
+      <pubDate>Mon, 10 Aug 2026 01:00:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://example.com/watch?v=kotatsu-rio">【初コラボ】リオさんと歌います【猫とネオン】</source>
+    </item>
+  </channel>
+</rss>

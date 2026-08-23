@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 荒木田玄の記事</title>
+    <link>https://kotatsu.example.com/feed/person/arakida-gen</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-arakida-oritatami-bunkai</guid>
+      <title>荒木田玄、発売当日の新型折りたたみスマホを容赦なく分解。「ヒンジの設計思想が変わった」</title>
+      <link>https://kotatsu.example.com/articles/arakida-oritatami-bunkai</link>
+      <description>テック系レビュアーの荒木田玄が、発売当日の新型折りたたみスマホを購入直後に分解するレビュー動画を公開した。ヒンジ機構の設計が前モデルから根本的に変わっており、耐久性向上の裏付けを構造から解説。「カタログスペックでは分からない進化」を実測データとともに示す硬派な内容が、ガジェット好きの間で高く評価されている。</description>
+      <pubDate>Sun, 09 Aug 2026 03:00:00 GMT</pubDate>
+      <category>tech</category>
+      <source url="https://example.com/watch?v=arakida-hinge">【発売日分解】新型折りたたみ、ヒンジが別物になっていた</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-jisaku-keyboard-numa</guid>
+      <title>「自作キーボード沼」への最短ルートを荒木田玄が整備。初心者が最初に買うべきものリストが決定版と話題</title>
+      <link>https://kotatsu.example.com/articles/jisaku-keyboard-numa</link>
+      <description>荒木田玄が自作キーボード入門動画を公開した。「沼に落とすための動画」と自称しつつ、初心者の予算3万円の最適な配分、最初に買ってはいけないもの、工具の優先順位を体系的に解説。曖昧な「好みによる」で逃げず、明確な推奨を示すスタイルが「入門動画の決定版」と評価されている。</description>
+      <pubDate>Thu, 06 Aug 2026 01:00:00 GMT</pubDate>
+      <category>tech</category>
+      <source url="https://example.com/watch?v=keyboard-numa">【入門】自作キーボード、最初の3万円の正解</source>
+    </item>
+  </channel>
+</rss>

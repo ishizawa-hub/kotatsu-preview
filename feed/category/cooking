@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 料理・グルメ</title>
+    <link>https://kotatsu.example.com/feed/category/cooking</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:40 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ryuji-shiso-genovese</guid>
+      <title>リュウジ「40年のパスタ人生で一番美味しい」大葉のジェノベーゼが話題。断言力こそバズレシピの真髄</title>
+      <link>https://kotatsu.example.com/articles/ryuji-shiso-genovese</link>
+      <description>料理研究家リュウジが「40年のパスタ人生で一番美味しい」と紹介する大葉のジェノベーゼ動画が話題だ。高価なバジルの代わりに大葉を使い、家庭の道具でプロ級の味を目指すレシピで、飲みながら作る名物スタイルと言い切りの強さが健在。手順だけでなく「なぜそうするか」の理屈まで語るのが支持の理由だ。</description>
+      <pubDate>Thu, 13 Aug 2026 02:00:00 GMT</pubDate>
+      <category>cooking</category>
+      <source url="https://www.youtube.com/watch?v=5I51UOGITe0">40年のパスタ人生で一番美味しい大葉のジェノベーゼ</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-tatsuya-makanai-taiketsu</guid>
+      <title>炎堂タツヤ、後輩板前との「まかない1品対決」が神回に。審査員はまさかの出前配達員</title>
+      <link>https://kotatsu.example.com/articles/tatsuya-makanai-taiketsu</link>
+      <description>料理人YouTuberの炎堂タツヤが、後輩板前とのまかない1品対決動画を公開した。冷蔵庫の余り物だけ・20分・調味料5つの制限下で、二人のプロが真逆のアプローチを見せる展開が見事。たまたま店に来た出前配達員が審査員を務める緩さも含めて「タツヤの台所の良さが全部入っている」と評判で、公開3日で再生数100万を超えた。</description>
+      <pubDate>Tue, 11 Aug 2026 02:30:00 GMT</pubDate>
+      <category>cooking</category>
+      <source url="https://example.com/watch?v=tatsuya-makanai">【まかない対決】余り物・20分・調味料5つ。後輩と本気でやってみた</source>
+    </item>
+  </channel>
+</rss>

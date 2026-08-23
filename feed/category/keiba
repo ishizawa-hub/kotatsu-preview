@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 競馬・公営競技</title>
+    <link>https://kotatsu.example.com/feed/category/keiba</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:40 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-deep-impact-arima-2006</guid>
+      <title>「これが最後のディープインパクト」有馬記念2006、伝説のラストランを8分で追体験する</title>
+      <link>https://kotatsu.example.com/articles/deep-impact-arima-2006</link>
+      <description>カンテレ競馬の公式チャンネルで、ディープインパクトの引退レースとなった2006年有馬記念のアーカイブが公開されている。歴史的名馬がラストランを勝利で締めくくった伝説のレースを、当時の実況とともに8分で追体験できる。競馬を知らない人にも「なぜ語り継がれるのか」が伝わる映像だ。</description>
+      <pubDate>Wed, 12 Aug 2026 19:00:00 GMT</pubDate>
+      <category>keiba</category>
+      <source url="https://www.youtube.com/watch?v=ucFmaw23-pE">「最後の衝撃！これが最後のディープインパクト」《有馬記念2006》</source>
+    </item>
+  </channel>
+</rss>

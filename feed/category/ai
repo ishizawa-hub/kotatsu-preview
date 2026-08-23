@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU AI</title>
+    <link>https://kotatsu.example.com/feed/category/ai</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-mirage2-video-ai-kaisetsu</guid>
+      <title>動画生成AI「Mirage 2」発表の要点を沢井まどかが解説。「実写と区別できない」より重要な3つの変化</title>
+      <link>https://kotatsu.example.com/articles/mirage2-video-ai-kaisetsu</link>
+      <description>AI研究者の沢井まどかが、海外企業が発表した動画生成AI「Mirage 2」の解説動画を公開した。注目されがちな画質向上ではなく、生成物への電子透かし義務化、学習データの出所開示、クリエイター向け収益還元の3点を「本当に重要な変化」として整理。公開から18時間で再生数40万を超えている。</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source url="https://example.com/watch?v=mirage2-kaisetsu">【25分で理解】Mirage 2発表、本当に重要なのは画質じゃない話</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-voice-assistant-live-demo</guid>
+      <title>「会話が途切れない」AI音声アシスタントのライブデモが話題。沢井まどかが技術的な仕組みを解説</title>
+      <link>https://kotatsu.example.com/articles/voice-assistant-live-demo</link>
+      <description>国内スタートアップが公開したAI音声アシスタントのライブデモ映像が「会話が自然すぎる」と話題になっている。沢井まどかは解説動画で、話題の本質は音声品質ではなく「人間の割り込みへの応答設計」にあると指摘。デモで意図的に行われた割り込みテストの箇所をタイムスタンプ付きで解説している。</description>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
+      <category>ai</category>
+      <source url="https://example.com/watch?v=voice-demo-kaisetsu">話題の音声AIデモ、どこがすごいのか10分で解説</source>
+    </item>
+  </channel>
+</rss>

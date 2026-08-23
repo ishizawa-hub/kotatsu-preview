@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU SNSトレンド</title>
+    <link>https://kotatsu.example.com/feed/category/trend</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-embed-x-jack-first-tweet</guid>
+      <title>史上初のツイート「just setting up my twttr」を記事に埋め込む【X埋め込み確認】</title>
+      <link>https://kotatsu.example.com/articles/embed-x-jack-first-tweet</link>
+      <description>Xの投稿ID『20』は、2006年3月にTwitter創業者ジャック・ドーシーが投稿した世界初のツイート「just setting up my twttr」。Xは通常投稿・動画投稿・X Premiumの長文投稿まで、すべて同じ公式ウィジェットで記事内に埋め込めます。</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://x.com/jack/status/20">X（旧Twitter）：通常投稿・動画投稿・X Premiumの長文投稿（すべて同じ公式ウィジェットで表示）</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ai-kirinuki-ronsou</guid>
+      <title>「AI切り抜き」は誰のものか。配信者たちの見解が分かれた1週間を整理する</title>
+      <link>https://kotatsu.example.com/articles/ai-kirinuki-ronsou</link>
+      <description>AIによる自動切り抜き動画の是非をめぐり、この1週間で複数の配信者が相次いで見解を表明した。収益還元を条件に公認する立場、現状維持の黙認、全面拒否まで対応は割れている。本記事では各配信者の発言を時系列で整理し、論点を「収益」「文脈の切断」「確認コスト」の3つに分けてまとめた。</description>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/watch?v=gouda-kirinuki">【雑談】切り抜きの話、ちゃんとします</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ren-1000days</guid>
+      <title>双葉レン、1000日連続投稿を達成。記念動画で明かした「一番きつかった日」の話</title>
+      <link>https://kotatsu.example.com/articles/ren-1000days</link>
+      <description>ショート動画クリエイターの双葉レンが、1日3本の動画投稿を1000日間続ける記録を達成した。記念のロング動画では、高熱を出した日や機材が全損した日など「一番きつかった日」の投稿背景を初公開。「才能じゃなくて仕組みで続けた」という制作フローの解説は、クリエイター志望者の間で保存必須と話題になっている。</description>
+      <pubDate>Wed, 12 Aug 2026 04:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/tiktok/ren-1000">1000日連続投稿、達成しました。全部話します</source>
+    </item>
+  </channel>
+</rss>

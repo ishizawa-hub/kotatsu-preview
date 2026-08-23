@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 立花ジョーの記事</title>
+    <link>https://kotatsu.example.com/feed/person/tachibana-joe</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-tachibana-title-match</guid>
+      <title>立花ジョー、王座挑戦決定を自身の配信で発表。「あと2試合」宣言の真意とは</title>
+      <link>https://kotatsu.example.com/articles/tachibana-title-match</link>
+      <description>格闘家の立花ジョーが8月11日の生配信で、12月大会でのフェザー級王座挑戦が決まったと発表した。団体の正式リリース前に本人の口から明かされる異例の形で、「引退まであと2試合」という去年の発言の真意にも言及。挑戦決定までの舞台裏と減量計画を45分にわたり語った。</description>
+      <pubDate>Wed, 12 Aug 2026 02:00:00 GMT</pubDate>
+      <category>kakutougi</category>
+      <source url="https://example.com/watch?v=joe-houkoku">【生配信】大事な報告があります</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-tachibana-genryou-micchaku</guid>
+      <title>立花ジョーの減量密着が「見ていて苦しいのに目が離せない」と話題。水抜き最終日の映像が公開</title>
+      <link>https://kotatsu.example.com/articles/tachibana-genryou-micchaku</link>
+      <description>立花ジョーが前戦の計量までの減量過程を記録した密着動画を公開した。水抜き最終日の朦朧とした状態や、チームによる体調管理の実際を包み隠さず記録しており、「減量の現実をここまで見せた映像はない」と競技関係者からも注目されている。美化やドラマ化を避けた淡々とした編集が、かえって減量の過酷さを伝えている。</description>
+      <pubDate>Sat, 08 Aug 2026 02:00:00 GMT</pubDate>
+      <category>kakutougi</category>
+      <source url="https://example.com/watch?v=joe-genryou">減量密着：計量まで72時間の記録</source>
+    </item>
+  </channel>
+</rss>

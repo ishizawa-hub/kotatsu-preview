@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 宝鐘マリンの記事</title>
+    <link>https://kotatsu.example.com/feed/person/houshou-marine</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-marine-7th-anniversary-3d</guid>
+      <title>宝鐘マリン、水着おうち3Dお披露目＆7周年ライブ振り返りが1時間44分の「船長の集大成」に</title>
+      <link>https://kotatsu.example.com/articles/marine-7th-anniversary-3d</link>
+      <description>ホロライブの宝鐘マリンが、水着おうち3Dのお披露目と7周年ライブ・フェス出演の振り返りを行う配信のアーカイブを公開した。1時間44分にわたり新3Dの披露とここまでの節目を語る構成で、世界トップクラスの登録者を持つ「船長」の現在地が詰まっている。記念配信としての完成度に加え、雑談の温度感が魅力だ。</description>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 GMT</pubDate>
+      <category>vtuber</category>
+      <source url="https://www.youtube.com/watch?v=kezHd5aVgdk">【水着おうち3Dお披露目】7周年ライブ＆LuckyFes&apos;26振り返り！【ホロライブ/宝鐘マリン】</source>
+    </item>
+  </channel>
+</rss>

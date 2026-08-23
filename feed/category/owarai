@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU お笑い</title>
+    <link>https://kotatsu.example.com/feed/category/owarai</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-kamaitachi-one-has-to-go</guid>
+      <title>かまいたち、「YouTube・X・LINE・カメラ、1つ消すなら？」で大激論。海外ミーム企画の料理が上手すぎる</title>
+      <link>https://kotatsu.example.com/articles/kamaitachi-one-has-to-go</link>
+      <description>かまいたちチャンネルが、4つの選択肢から1つを消すなら何を選ぶかを議論する企画「One Has To Go」を公開した。お題はYouTube・X・LINE・カメラアプリという生活密着の4択。海外ミーム由来のフォーマットを、2人の屁理屈と例え話で塗り替えていくトークが本体で、18分があっという間に感じられる仕上がりだ。</description>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <category>owarai</category>
+      <source url="https://www.youtube.com/watch?v=zoowa0NuG8c">【4択】かまいたちがYouTube・X・LINE・カメラアプリで１つだけ消すとしたら？〜One Has To Go〜</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-gouda-shinya-urabanashi</guid>
+      <title>剛田タケル、深夜配信で賞レース決勝の舞台裏を告白。「ネタを変えたのは出番3分前」</title>
+      <link>https://kotatsu.example.com/articles/gouda-shinya-urabanashi</link>
+      <description>お笑い芸人の剛田タケルが8月10日の深夜配信で、昨年の賞レース決勝の舞台裏を初めて詳しく語った。出番3分前にネタの出だしを差し替えていたこと、それを相方にも直前まで伝えなかったことを告白。「お客さんの空気が前の組で変わった」という判断の理由に、芸人仲間からも共感のコメントが相次いだ。</description>
+      <pubDate>Tue, 11 Aug 2026 03:00:00 GMT</pubDate>
+      <category>owarai</category>
+      <source url="https://example.com/watch?v=gouda-shinya">【深夜】今だから言える話をする回</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-gouda-oogiri-densetsu</guid>
+      <title>剛田タケル、視聴者参加型の大喜利生配信で「伝説の回答」が誕生。本人が笑いすぎて配信中断</title>
+      <link>https://kotatsu.example.com/articles/gouda-oogiri-densetsu</link>
+      <description>剛田タケルが月例の視聴者参加型大喜利配信を実施し、視聴者の回答に本人が笑い崩れて配信が3分間中断する事態となった。「プロが素人の回答で崩壊する瞬間」として切り抜きが拡散され、当該回答は本人公認で「殿堂入り」に認定。配信文化と大喜利文化の相性の良さを示す回として話題になっている。</description>
+      <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
+      <category>owarai</category>
+      <source url="https://example.com/watch?v=gouda-oogiri">【月例】視聴者大喜利ライブ 8月場所</source>
+    </item>
+  </channel>
+</rss>

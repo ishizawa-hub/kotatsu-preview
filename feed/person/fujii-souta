@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 藤井聡太の記事</title>
+    <link>https://kotatsu.example.com/feed/person/fujii-souta</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-fujii-vs-habu-ginga</guid>
+      <title>藤井聡太 vs 羽生善治、世代を超えた頂上対決が無料公開中。1時間36分が一瞬で溶ける</title>
+      <link>https://kotatsu.example.com/articles/fujii-vs-habu-ginga</link>
+      <description>囲碁将棋プラスが、銀河戦での藤井聡太と羽生善治の対局アーカイブを無料公開している。最年少記録を塗り替え続けてきた藤井と、七冠を成し遂げた羽生という世代を超えたレジェンド同士の直接対決は、将棋を指さない層にも注目される定番カード。1時間36分の対局を通しで見られる貴重な機会だ。</description>
+      <pubDate>Thu, 13 Aug 2026 01:00:00 GMT</pubDate>
+      <category>shogi</category>
+      <source url="https://www.youtube.com/watch?v=BJlUFpl2Uvs">＜無料＞第31期 銀河戦 本戦Hブロック 最終戦 藤井聡太銀河 vs 羽生善治九段</source>
+    </item>
+  </channel>
+</rss>

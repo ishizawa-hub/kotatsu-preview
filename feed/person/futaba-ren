@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 双葉レンの記事</title>
+    <link>https://kotatsu.example.com/feed/person/futaba-ren</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:41 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-ren-1000days</guid>
+      <title>双葉レン、1000日連続投稿を達成。記念動画で明かした「一番きつかった日」の話</title>
+      <link>https://kotatsu.example.com/articles/ren-1000days</link>
+      <description>ショート動画クリエイターの双葉レンが、1日3本の動画投稿を1000日間続ける記録を達成した。記念のロング動画では、高熱を出した日や機材が全損した日など「一番きつかった日」の投稿背景を初公開。「才能じゃなくて仕組みで続けた」という制作フローの解説は、クリエイター志望者の間で保存必須と話題になっている。</description>
+      <pubDate>Wed, 12 Aug 2026 04:00:00 GMT</pubDate>
+      <category>trend</category>
+      <source url="https://example.com/tiktok/ren-1000">1000日連続投稿、達成しました。全部話します</source>
+    </item>
+  </channel>
+</rss>

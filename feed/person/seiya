@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>KOTATSU 聖夜の記事</title>
+    <link>https://kotatsu.example.com/feed/person/seiya</link>
+    <description>10秒で今がわかる、3分でもっと知れる。時代を切り抜く令和のウェブメディア</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 Aug 2026 04:02:39 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">kotatsu-article-a-seiya-uriage-shakkin</guid>
+      <title>現役ホスト聖夜、「売上1,000万の月の手取り」を公開。華やかさの裏の数字に賛否両論</title>
+      <link>https://kotatsu.example.com/articles/seiya-uriage-shakkin</link>
+      <description>歌舞伎町の現役ホスト聖夜が、月間売上1,000万円だった月の実際の手取りと支出を公開する動画を投稿した。売掛金の回収リスクや店との取り分、経費の内訳を電卓を叩きながら説明し、華やかな数字の裏側を可視化。「夢がある」「現実を知れてよかった」と受け止めは分かれるが、業界の構造をここまで具体的に示した動画は珍しく、注目を集めている。</description>
+      <pubDate>Wed, 12 Aug 2026 04:00:00 GMT</pubDate>
+      <category>yorushoku</category>
+      <source url="https://example.com/watch?v=seiya-tedori">【全公開】売上1,000万の月、手取りいくらか電卓で出す</source>
+    </item>
+  </channel>
+</rss>
